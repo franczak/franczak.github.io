@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Nowy post"
+date:   2018-12-30 15:51:10 +0100
+categories: javascript test
+---
+
+Sprawdzam czy to w ogóle dziala.
