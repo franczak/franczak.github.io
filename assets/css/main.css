@@ -797,6 +797,9 @@ footer {
     -o-justify-content: space-between;
     justify-content: space-between;
     -ms-flex-pack: justify; }
+    .about-lock .glyph-icon {
+      width: 110px;
+    }
     .about-lock .flaticon-cogwheel28 {
       -webkit-box-ordinal-group: 1;
       box-ordinal-group: 1;
