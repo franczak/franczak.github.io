@@ -800,7 +800,7 @@ footer {
     .about-lock .glyph-icon {
       width: 85px;
     }
-    .about-lock .flaticon-cogwheel28 {
+    .about-lock .react-icon {
       -webkit-box-ordinal-group: 1;
       box-ordinal-group: 1;
       -webkit-order: 1;
@@ -808,7 +808,7 @@ footer {
       order: 1;
       -ms-flex-order: 1;
       display: block; }
-    .about-lock .flaticon-computer1 {
+    .about-lock .redux-icon {
       -webkit-box-ordinal-group: 2;
       box-ordinal-group: 2;
       -webkit-order: 2;
@@ -816,7 +816,7 @@ footer {
       order: 2;
       -ms-flex-order: 2;
       display: block; }
-    .about-lock .flaticon-hosting {
+    .about-lock .angular-icon {
       -webkit-box-ordinal-group: 4;
       box-ordinal-group: 4;
       -webkit-order: 4;
@@ -824,7 +824,7 @@ footer {
       order: 4;
       -ms-flex-order: 4;
       display: block; }
-    .about-lock .flaticon-computers13 {
+    .about-lock .js-icon {
       -webkit-box-ordinal-group: 5;
       box-ordinal-group: 5;
       -webkit-order: 5;
